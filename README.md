@@ -3,7 +3,7 @@
 
 you need to have python3 and latest version of pip installed on the system
 
-create python virtual environment in the project folder
+create python virtual environment in the project folder <br />
 ``` python3 -m pip install --user virtualenv ```
 ``` python3 -m venv env ```
 ``` source env/bin/activate ```
