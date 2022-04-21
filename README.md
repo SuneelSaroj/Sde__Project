@@ -1,16 +1,16 @@
 
 ### Installation ###
 
-you need to have python3 and latest version of pip installed on the system
+You need to have python3 and latest version of pip installed on the system
 
-create python virtual environment in the project folder <br />
+Create python virtual environment in the project folder <br />
 ``` python3 -m pip install --user virtualenv ``` <br />
 ``` python3 -m venv env ``` <br />
 ``` source env/bin/activate ``` <br />
 
 Select the Python interpreter for the virtul environment created
 
-for building the project we need to install some dependencies <br />
+For building the project we need to install some dependencies <br />
 ``` pip install spacy ``` <br />
 ``` pip install numpy ``` <br />
 ``` pip install nltk ``` <br />
